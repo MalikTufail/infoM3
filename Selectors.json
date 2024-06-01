@@ -1,0 +1,34 @@
+{
+    "login": {
+        "userName": "#userNameInput",
+        "password": "#passwordInput",
+        "submitBtn": "#submitButton"
+    },
+    "dashboard":{
+        "iframeSel": "iframe[class='osp-width-full osp-height-full']",
+        "searchOIS": "#search-and-start-autocomplete",
+        "selectOIS": "#autocomplete-list",
+        "newOrderBtn": "#WYQ0615",
+        "COType": "#OAORTP",
+        "dateIcon": "#pRow9 > form > div:nth-child(2) > div > div:nth-child(2) > div > button",
+        "addressNo": "#OAADID",
+        "nextBtn": "#btn-next",
+        "alertBox": "#standard-btn-ok"
+    },
+    "paymentAndCondition": {
+        "deliverySpec": "#OADLSP",
+        "deliveryItem": "#BROWSE_LIST > div.datagrid-wrapper.center.scrollable-x.scrollable-y > table > tbody > tr:nth-child(2)",
+        "selectValue": "#BTN_L52T23",
+        "deliverySpecType": "#OADSTX"
+    },
+    "reference": {
+        "contactMethod": "#OAWCON",
+        "contactMethodItem": "#BROWSE_LIST > div.datagrid-wrapper.center.scrollable-x.scrollable-y > table > tbody > tr:nth-child(2)"
+    },
+    "activity": {
+        "item": "#WBITNO",
+        "orderQuantity": "#WBORQA",
+        "salesPrice": "#WBSAPR",
+        "addBtn": "#A_00434"
+    }
+}
